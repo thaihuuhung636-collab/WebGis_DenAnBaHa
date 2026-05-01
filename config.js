@@ -1,0 +1,2043 @@
+window.DFS2_WEBGIS_CONFIG = {
+  "title": "DFS2 WebGIS",
+  "defaultBasemap": "street",
+  "defaultAlpha": 1.0,
+  "layers": [
+    {
+      "id": "CONTROL_H_Water_Depth",
+      "alias": "CONTROL",
+      "caption": "CONTROL - H Water Depth",
+      "item": "H Water Depth",
+      "frames": [
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0000.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0000.tif",
+          "time": "2024-11-14 07:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0001.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0001.tif",
+          "time": "2024-11-14 08:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0002.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0002.tif",
+          "time": "2024-11-14 09:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0003.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0003.tif",
+          "time": "2024-11-14 10:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0004.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0004.tif",
+          "time": "2024-11-14 11:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0005.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0005.tif",
+          "time": "2024-11-14 12:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0006.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0006.tif",
+          "time": "2024-11-14 13:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0007.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0007.tif",
+          "time": "2024-11-14 14:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0008.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0008.tif",
+          "time": "2024-11-14 15:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0009.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0009.tif",
+          "time": "2024-11-14 16:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0010.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0010.tif",
+          "time": "2024-11-14 17:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0011.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0011.tif",
+          "time": "2024-11-14 18:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0012.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0012.tif",
+          "time": "2024-11-14 19:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0013.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0013.tif",
+          "time": "2024-11-14 20:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0014.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0014.tif",
+          "time": "2024-11-14 21:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0015.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0015.tif",
+          "time": "2024-11-14 22:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0016.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0016.tif",
+          "time": "2024-11-14 23:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0017.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0017.tif",
+          "time": "2024-11-15 00:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0018.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0018.tif",
+          "time": "2024-11-15 01:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0019.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0019.tif",
+          "time": "2024-11-15 02:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0020.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0020.tif",
+          "time": "2024-11-15 03:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0021.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0021.tif",
+          "time": "2024-11-15 04:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0022.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0022.tif",
+          "time": "2024-11-15 05:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0023.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0023.tif",
+          "time": "2024-11-15 06:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0024.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0024.tif",
+          "time": "2024-11-15 07:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0025.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0025.tif",
+          "time": "2024-11-15 08:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0026.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0026.tif",
+          "time": "2024-11-15 09:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0027.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0027.tif",
+          "time": "2024-11-15 10:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0028.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0028.tif",
+          "time": "2024-11-15 11:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0029.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0029.tif",
+          "time": "2024-11-15 12:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0030.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0030.tif",
+          "time": "2024-11-15 13:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0031.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0031.tif",
+          "time": "2024-11-15 14:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0032.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0032.tif",
+          "time": "2024-11-15 15:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0033.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0033.tif",
+          "time": "2024-11-15 16:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0034.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0034.tif",
+          "time": "2024-11-15 17:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0035.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0035.tif",
+          "time": "2024-11-15 18:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0036.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0036.tif",
+          "time": "2024-11-15 19:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0037.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0037.tif",
+          "time": "2024-11-15 20:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0038.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0038.tif",
+          "time": "2024-11-15 21:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0039.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0039.tif",
+          "time": "2024-11-15 22:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0040.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0040.tif",
+          "time": "2024-11-15 23:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0041.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0041.tif",
+          "time": "2024-11-16 00:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0042.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0042.tif",
+          "time": "2024-11-16 01:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0043.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0043.tif",
+          "time": "2024-11-16 02:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0044.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0044.tif",
+          "time": "2024-11-16 03:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0045.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0045.tif",
+          "time": "2024-11-16 04:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0046.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0046.tif",
+          "time": "2024-11-16 05:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0047.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0047.tif",
+          "time": "2024-11-16 06:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0048.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0048.tif",
+          "time": "2024-11-16 07:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0049.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0049.tif",
+          "time": "2024-11-16 08:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0050.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0050.tif",
+          "time": "2024-11-16 09:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0051.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0051.tif",
+          "time": "2024-11-16 10:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0052.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0052.tif",
+          "time": "2024-11-16 11:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0053.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0053.tif",
+          "time": "2024-11-16 12:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0054.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0054.tif",
+          "time": "2024-11-16 13:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0055.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0055.tif",
+          "time": "2024-11-16 14:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0056.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0056.tif",
+          "time": "2024-11-16 15:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0057.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0057.tif",
+          "time": "2024-11-16 16:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0058.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0058.tif",
+          "time": "2024-11-16 17:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0059.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0059.tif",
+          "time": "2024-11-16 18:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0060.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0060.tif",
+          "time": "2024-11-16 19:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0061.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0061.tif",
+          "time": "2024-11-16 20:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0062.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0062.tif",
+          "time": "2024-11-16 21:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0063.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0063.tif",
+          "time": "2024-11-16 22:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0064.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0064.tif",
+          "time": "2024-11-16 23:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0065.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0065.tif",
+          "time": "2024-11-17 00:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0066.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0066.tif",
+          "time": "2024-11-17 01:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0067.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0067.tif",
+          "time": "2024-11-17 02:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0068.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0068.tif",
+          "time": "2024-11-17 03:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0069.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0069.tif",
+          "time": "2024-11-17 04:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0070.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0070.tif",
+          "time": "2024-11-17 05:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0071.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0071.tif",
+          "time": "2024-11-17 06:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0072.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0072.tif",
+          "time": "2024-11-17 07:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0073.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0073.tif",
+          "time": "2024-11-17 08:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0074.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0074.tif",
+          "time": "2024-11-17 09:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0075.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0075.tif",
+          "time": "2024-11-17 10:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0076.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0076.tif",
+          "time": "2024-11-17 11:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0077.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0077.tif",
+          "time": "2024-11-17 12:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0078.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0078.tif",
+          "time": "2024-11-17 13:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0079.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0079.tif",
+          "time": "2024-11-17 14:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0080.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0080.tif",
+          "time": "2024-11-17 15:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0081.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0081.tif",
+          "time": "2024-11-17 16:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0082.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0082.tif",
+          "time": "2024-11-17 17:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0083.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0083.tif",
+          "time": "2024-11-17 18:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0084.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0084.tif",
+          "time": "2024-11-17 19:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0085.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0085.tif",
+          "time": "2024-11-17 20:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0086.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0086.tif",
+          "time": "2024-11-17 21:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0087.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0087.tif",
+          "time": "2024-11-17 22:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0088.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0088.tif",
+          "time": "2024-11-17 23:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0089.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0089.tif",
+          "time": "2024-11-18 00:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0090.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0090.tif",
+          "time": "2024-11-18 01:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0091.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0091.tif",
+          "time": "2024-11-18 02:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0092.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0092.tif",
+          "time": "2024-11-18 03:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0093.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0093.tif",
+          "time": "2024-11-18 04:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0094.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0094.tif",
+          "time": "2024-11-18 05:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0095.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0095.tif",
+          "time": "2024-11-18 06:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0096.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0096.tif",
+          "time": "2024-11-18 07:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0097.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0097.tif",
+          "time": "2024-11-18 08:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0098.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0098.tif",
+          "time": "2024-11-18 09:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0099.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0099.tif",
+          "time": "2024-11-18 10:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0100.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0100.tif",
+          "time": "2024-11-18 11:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0101.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0101.tif",
+          "time": "2024-11-18 12:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0102.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0102.tif",
+          "time": "2024-11-18 13:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0103.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0103.tif",
+          "time": "2024-11-18 14:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0104.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0104.tif",
+          "time": "2024-11-18 15:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0105.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0105.tif",
+          "time": "2024-11-18 16:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0106.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0106.tif",
+          "time": "2024-11-18 17:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0107.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0107.tif",
+          "time": "2024-11-18 18:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0108.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0108.tif",
+          "time": "2024-11-18 19:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0109.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0109.tif",
+          "time": "2024-11-18 20:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0110.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0110.tif",
+          "time": "2024-11-18 21:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0111.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0111.tif",
+          "time": "2024-11-18 22:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0112.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0112.tif",
+          "time": "2024-11-18 23:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0113.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0113.tif",
+          "time": "2024-11-19 00:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0114.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0114.tif",
+          "time": "2024-11-19 01:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0115.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0115.tif",
+          "time": "2024-11-19 02:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0116.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0116.tif",
+          "time": "2024-11-19 03:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0117.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0117.tif",
+          "time": "2024-11-19 04:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0118.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0118.tif",
+          "time": "2024-11-19 05:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0119.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0119.tif",
+          "time": "2024-11-19 06:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0120.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0120.tif",
+          "time": "2024-11-19 07:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0121.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0121.tif",
+          "time": "2024-11-19 08:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0122.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0122.tif",
+          "time": "2024-11-19 09:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0123.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0123.tif",
+          "time": "2024-11-19 10:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0124.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0124.tif",
+          "time": "2024-11-19 11:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0125.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0125.tif",
+          "time": "2024-11-19 12:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0126.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0126.tif",
+          "time": "2024-11-19 13:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0127.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0127.tif",
+          "time": "2024-11-19 14:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0128.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0128.tif",
+          "time": "2024-11-19 15:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0129.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0129.tif",
+          "time": "2024-11-19 16:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0130.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0130.tif",
+          "time": "2024-11-19 17:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0131.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0131.tif",
+          "time": "2024-11-19 18:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0132.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0132.tif",
+          "time": "2024-11-19 19:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0133.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0133.tif",
+          "time": "2024-11-19 20:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0134.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0134.tif",
+          "time": "2024-11-19 21:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0135.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0135.tif",
+          "time": "2024-11-19 22:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0136.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0136.tif",
+          "time": "2024-11-19 23:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0137.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0137.tif",
+          "time": "2024-11-20 00:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0138.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0138.tif",
+          "time": "2024-11-20 01:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0139.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0139.tif",
+          "time": "2024-11-20 02:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0140.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0140.tif",
+          "time": "2024-11-20 03:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0141.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0141.tif",
+          "time": "2024-11-20 04:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0142.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0142.tif",
+          "time": "2024-11-20 05:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0143.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0143.tif",
+          "time": "2024-11-20 06:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0144.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0144.tif",
+          "time": "2024-11-20 07:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0145.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0145.tif",
+          "time": "2024-11-20 08:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0146.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0146.tif",
+          "time": "2024-11-20 09:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0147.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0147.tif",
+          "time": "2024-11-20 10:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0148.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0148.tif",
+          "time": "2024-11-20 11:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0149.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0149.tif",
+          "time": "2024-11-20 12:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0150.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0150.tif",
+          "time": "2024-11-20 13:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0151.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0151.tif",
+          "time": "2024-11-20 14:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0152.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0152.tif",
+          "time": "2024-11-20 15:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0153.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0153.tif",
+          "time": "2024-11-20 16:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0154.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0154.tif",
+          "time": "2024-11-20 17:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0155.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0155.tif",
+          "time": "2024-11-20 18:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0156.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0156.tif",
+          "time": "2024-11-20 19:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0157.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0157.tif",
+          "time": "2024-11-20 20:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0158.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0158.tif",
+          "time": "2024-11-20 21:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0159.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0159.tif",
+          "time": "2024-11-20 22:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0160.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0160.tif",
+          "time": "2024-11-20 23:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0161.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0161.tif",
+          "time": "2024-11-21 00:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0162.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0162.tif",
+          "time": "2024-11-21 01:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0163.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0163.tif",
+          "time": "2024-11-21 02:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0164.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0164.tif",
+          "time": "2024-11-21 03:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0165.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0165.tif",
+          "time": "2024-11-21 04:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0166.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0166.tif",
+          "time": "2024-11-21 05:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0167.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0167.tif",
+          "time": "2024-11-21 06:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0168.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0168.tif",
+          "time": "2024-11-21 07:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0169.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0169.tif",
+          "time": "2024-11-21 08:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0170.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0170.tif",
+          "time": "2024-11-21 09:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0171.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0171.tif",
+          "time": "2024-11-21 10:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0172.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0172.tif",
+          "time": "2024-11-21 11:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0173.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0173.tif",
+          "time": "2024-11-21 12:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0174.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0174.tif",
+          "time": "2024-11-21 13:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0175.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0175.tif",
+          "time": "2024-11-21 14:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0176.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0176.tif",
+          "time": "2024-11-21 15:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0177.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0177.tif",
+          "time": "2024-11-21 16:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0178.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0178.tif",
+          "time": "2024-11-21 17:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0179.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0179.tif",
+          "time": "2024-11-21 18:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0180.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0180.tif",
+          "time": "2024-11-21 19:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0181.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0181.tif",
+          "time": "2024-11-21 20:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0182.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0182.tif",
+          "time": "2024-11-21 21:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0183.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0183.tif",
+          "time": "2024-11-21 22:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0184.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0184.tif",
+          "time": "2024-11-21 23:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0185.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0185.tif",
+          "time": "2024-11-22 00:00:00"
+        },
+        {
+          "png": "frames/CONTROL_H_Water_Depth/frame_0186.png",
+          "tif": "frames/CONTROL_H_Water_Depth/frame_0186.tif",
+          "time": "2024-11-22 01:00:00"
+        }
+      ],
+      "extent3857": [
+        12117025.580598885,
+        1450972.5102103876,
+        12183026.905603422,
+        1484850.113394535
+      ],
+      "legendItems": [
+        {
+          "color": "#440154",
+          "label": "0 - 0.1"
+        },
+        {
+          "color": "#481a6c",
+          "label": "0.1 - 0.2"
+        },
+        {
+          "color": "#46317e",
+          "label": "0.2 - 0.5"
+        },
+        {
+          "color": "#3f4788",
+          "label": "0.5 - 1"
+        },
+        {
+          "color": "#365b8c",
+          "label": "1 - 1.5"
+        },
+        {
+          "color": "#2e6d8e",
+          "label": "1.5 - 2"
+        },
+        {
+          "color": "#277e8e",
+          "label": "2 - 3"
+        },
+        {
+          "color": "#20908c",
+          "label": "3 - 4"
+        },
+        {
+          "color": "#1fa187",
+          "label": "4 - 5"
+        },
+        {
+          "color": "#2cb17d",
+          "label": "5 - 6"
+        },
+        {
+          "color": "#49c16d",
+          "label": "6 - 7"
+        },
+        {
+          "color": "#72cf55",
+          "label": "7 - 8"
+        },
+        {
+          "color": "#9fd938",
+          "label": "8 - 9"
+        },
+        {
+          "color": "#cfe11c",
+          "label": "9 - 11"
+        },
+        {
+          "color": "#fde724",
+          "label": "11 - 14"
+        }
+      ]
+    },
+    {
+      "id": "NoConTrol_H_Water_Depth",
+      "alias": "NoConTrol",
+      "caption": "NoConTrol - H Water Depth",
+      "item": "H Water Depth",
+      "frames": [
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0000.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0000.tif",
+          "time": "2024-11-14 07:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0001.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0001.tif",
+          "time": "2024-11-14 08:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0002.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0002.tif",
+          "time": "2024-11-14 09:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0003.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0003.tif",
+          "time": "2024-11-14 10:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0004.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0004.tif",
+          "time": "2024-11-14 11:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0005.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0005.tif",
+          "time": "2024-11-14 12:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0006.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0006.tif",
+          "time": "2024-11-14 13:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0007.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0007.tif",
+          "time": "2024-11-14 14:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0008.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0008.tif",
+          "time": "2024-11-14 15:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0009.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0009.tif",
+          "time": "2024-11-14 16:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0010.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0010.tif",
+          "time": "2024-11-14 17:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0011.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0011.tif",
+          "time": "2024-11-14 18:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0012.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0012.tif",
+          "time": "2024-11-14 19:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0013.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0013.tif",
+          "time": "2024-11-14 20:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0014.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0014.tif",
+          "time": "2024-11-14 21:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0015.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0015.tif",
+          "time": "2024-11-14 22:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0016.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0016.tif",
+          "time": "2024-11-14 23:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0017.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0017.tif",
+          "time": "2024-11-15 00:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0018.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0018.tif",
+          "time": "2024-11-15 01:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0019.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0019.tif",
+          "time": "2024-11-15 02:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0020.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0020.tif",
+          "time": "2024-11-15 03:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0021.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0021.tif",
+          "time": "2024-11-15 04:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0022.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0022.tif",
+          "time": "2024-11-15 05:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0023.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0023.tif",
+          "time": "2024-11-15 06:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0024.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0024.tif",
+          "time": "2024-11-15 07:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0025.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0025.tif",
+          "time": "2024-11-15 08:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0026.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0026.tif",
+          "time": "2024-11-15 09:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0027.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0027.tif",
+          "time": "2024-11-15 10:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0028.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0028.tif",
+          "time": "2024-11-15 11:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0029.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0029.tif",
+          "time": "2024-11-15 12:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0030.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0030.tif",
+          "time": "2024-11-15 13:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0031.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0031.tif",
+          "time": "2024-11-15 14:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0032.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0032.tif",
+          "time": "2024-11-15 15:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0033.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0033.tif",
+          "time": "2024-11-15 16:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0034.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0034.tif",
+          "time": "2024-11-15 17:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0035.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0035.tif",
+          "time": "2024-11-15 18:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0036.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0036.tif",
+          "time": "2024-11-15 19:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0037.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0037.tif",
+          "time": "2024-11-15 20:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0038.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0038.tif",
+          "time": "2024-11-15 21:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0039.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0039.tif",
+          "time": "2024-11-15 22:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0040.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0040.tif",
+          "time": "2024-11-15 23:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0041.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0041.tif",
+          "time": "2024-11-16 00:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0042.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0042.tif",
+          "time": "2024-11-16 01:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0043.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0043.tif",
+          "time": "2024-11-16 02:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0044.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0044.tif",
+          "time": "2024-11-16 03:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0045.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0045.tif",
+          "time": "2024-11-16 04:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0046.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0046.tif",
+          "time": "2024-11-16 05:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0047.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0047.tif",
+          "time": "2024-11-16 06:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0048.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0048.tif",
+          "time": "2024-11-16 07:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0049.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0049.tif",
+          "time": "2024-11-16 08:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0050.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0050.tif",
+          "time": "2024-11-16 09:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0051.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0051.tif",
+          "time": "2024-11-16 10:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0052.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0052.tif",
+          "time": "2024-11-16 11:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0053.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0053.tif",
+          "time": "2024-11-16 12:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0054.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0054.tif",
+          "time": "2024-11-16 13:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0055.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0055.tif",
+          "time": "2024-11-16 14:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0056.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0056.tif",
+          "time": "2024-11-16 15:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0057.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0057.tif",
+          "time": "2024-11-16 16:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0058.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0058.tif",
+          "time": "2024-11-16 17:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0059.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0059.tif",
+          "time": "2024-11-16 18:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0060.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0060.tif",
+          "time": "2024-11-16 19:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0061.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0061.tif",
+          "time": "2024-11-16 20:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0062.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0062.tif",
+          "time": "2024-11-16 21:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0063.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0063.tif",
+          "time": "2024-11-16 22:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0064.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0064.tif",
+          "time": "2024-11-16 23:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0065.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0065.tif",
+          "time": "2024-11-17 00:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0066.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0066.tif",
+          "time": "2024-11-17 01:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0067.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0067.tif",
+          "time": "2024-11-17 02:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0068.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0068.tif",
+          "time": "2024-11-17 03:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0069.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0069.tif",
+          "time": "2024-11-17 04:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0070.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0070.tif",
+          "time": "2024-11-17 05:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0071.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0071.tif",
+          "time": "2024-11-17 06:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0072.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0072.tif",
+          "time": "2024-11-17 07:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0073.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0073.tif",
+          "time": "2024-11-17 08:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0074.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0074.tif",
+          "time": "2024-11-17 09:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0075.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0075.tif",
+          "time": "2024-11-17 10:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0076.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0076.tif",
+          "time": "2024-11-17 11:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0077.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0077.tif",
+          "time": "2024-11-17 12:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0078.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0078.tif",
+          "time": "2024-11-17 13:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0079.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0079.tif",
+          "time": "2024-11-17 14:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0080.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0080.tif",
+          "time": "2024-11-17 15:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0081.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0081.tif",
+          "time": "2024-11-17 16:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0082.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0082.tif",
+          "time": "2024-11-17 17:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0083.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0083.tif",
+          "time": "2024-11-17 18:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0084.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0084.tif",
+          "time": "2024-11-17 19:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0085.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0085.tif",
+          "time": "2024-11-17 20:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0086.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0086.tif",
+          "time": "2024-11-17 21:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0087.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0087.tif",
+          "time": "2024-11-17 22:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0088.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0088.tif",
+          "time": "2024-11-17 23:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0089.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0089.tif",
+          "time": "2024-11-18 00:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0090.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0090.tif",
+          "time": "2024-11-18 01:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0091.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0091.tif",
+          "time": "2024-11-18 02:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0092.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0092.tif",
+          "time": "2024-11-18 03:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0093.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0093.tif",
+          "time": "2024-11-18 04:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0094.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0094.tif",
+          "time": "2024-11-18 05:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0095.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0095.tif",
+          "time": "2024-11-18 06:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0096.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0096.tif",
+          "time": "2024-11-18 07:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0097.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0097.tif",
+          "time": "2024-11-18 08:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0098.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0098.tif",
+          "time": "2024-11-18 09:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0099.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0099.tif",
+          "time": "2024-11-18 10:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0100.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0100.tif",
+          "time": "2024-11-18 11:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0101.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0101.tif",
+          "time": "2024-11-18 12:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0102.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0102.tif",
+          "time": "2024-11-18 13:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0103.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0103.tif",
+          "time": "2024-11-18 14:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0104.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0104.tif",
+          "time": "2024-11-18 15:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0105.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0105.tif",
+          "time": "2024-11-18 16:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0106.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0106.tif",
+          "time": "2024-11-18 17:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0107.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0107.tif",
+          "time": "2024-11-18 18:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0108.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0108.tif",
+          "time": "2024-11-18 19:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0109.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0109.tif",
+          "time": "2024-11-18 20:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0110.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0110.tif",
+          "time": "2024-11-18 21:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0111.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0111.tif",
+          "time": "2024-11-18 22:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0112.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0112.tif",
+          "time": "2024-11-18 23:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0113.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0113.tif",
+          "time": "2024-11-19 00:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0114.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0114.tif",
+          "time": "2024-11-19 01:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0115.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0115.tif",
+          "time": "2024-11-19 02:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0116.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0116.tif",
+          "time": "2024-11-19 03:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0117.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0117.tif",
+          "time": "2024-11-19 04:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0118.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0118.tif",
+          "time": "2024-11-19 05:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0119.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0119.tif",
+          "time": "2024-11-19 06:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0120.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0120.tif",
+          "time": "2024-11-19 07:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0121.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0121.tif",
+          "time": "2024-11-19 08:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0122.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0122.tif",
+          "time": "2024-11-19 09:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0123.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0123.tif",
+          "time": "2024-11-19 10:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0124.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0124.tif",
+          "time": "2024-11-19 11:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0125.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0125.tif",
+          "time": "2024-11-19 12:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0126.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0126.tif",
+          "time": "2024-11-19 13:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0127.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0127.tif",
+          "time": "2024-11-19 14:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0128.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0128.tif",
+          "time": "2024-11-19 15:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0129.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0129.tif",
+          "time": "2024-11-19 16:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0130.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0130.tif",
+          "time": "2024-11-19 17:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0131.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0131.tif",
+          "time": "2024-11-19 18:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0132.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0132.tif",
+          "time": "2024-11-19 19:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0133.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0133.tif",
+          "time": "2024-11-19 20:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0134.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0134.tif",
+          "time": "2024-11-19 21:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0135.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0135.tif",
+          "time": "2024-11-19 22:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0136.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0136.tif",
+          "time": "2024-11-19 23:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0137.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0137.tif",
+          "time": "2024-11-20 00:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0138.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0138.tif",
+          "time": "2024-11-20 01:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0139.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0139.tif",
+          "time": "2024-11-20 02:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0140.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0140.tif",
+          "time": "2024-11-20 03:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0141.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0141.tif",
+          "time": "2024-11-20 04:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0142.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0142.tif",
+          "time": "2024-11-20 05:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0143.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0143.tif",
+          "time": "2024-11-20 06:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0144.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0144.tif",
+          "time": "2024-11-20 07:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0145.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0145.tif",
+          "time": "2024-11-20 08:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0146.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0146.tif",
+          "time": "2024-11-20 09:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0147.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0147.tif",
+          "time": "2024-11-20 10:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0148.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0148.tif",
+          "time": "2024-11-20 11:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0149.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0149.tif",
+          "time": "2024-11-20 12:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0150.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0150.tif",
+          "time": "2024-11-20 13:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0151.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0151.tif",
+          "time": "2024-11-20 14:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0152.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0152.tif",
+          "time": "2024-11-20 15:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0153.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0153.tif",
+          "time": "2024-11-20 16:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0154.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0154.tif",
+          "time": "2024-11-20 17:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0155.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0155.tif",
+          "time": "2024-11-20 18:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0156.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0156.tif",
+          "time": "2024-11-20 19:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0157.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0157.tif",
+          "time": "2024-11-20 20:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0158.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0158.tif",
+          "time": "2024-11-20 21:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0159.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0159.tif",
+          "time": "2024-11-20 22:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0160.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0160.tif",
+          "time": "2024-11-20 23:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0161.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0161.tif",
+          "time": "2024-11-21 00:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0162.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0162.tif",
+          "time": "2024-11-21 01:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0163.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0163.tif",
+          "time": "2024-11-21 02:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0164.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0164.tif",
+          "time": "2024-11-21 03:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0165.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0165.tif",
+          "time": "2024-11-21 04:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0166.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0166.tif",
+          "time": "2024-11-21 05:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0167.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0167.tif",
+          "time": "2024-11-21 06:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0168.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0168.tif",
+          "time": "2024-11-21 07:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0169.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0169.tif",
+          "time": "2024-11-21 08:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0170.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0170.tif",
+          "time": "2024-11-21 09:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0171.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0171.tif",
+          "time": "2024-11-21 10:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0172.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0172.tif",
+          "time": "2024-11-21 11:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0173.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0173.tif",
+          "time": "2024-11-21 12:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0174.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0174.tif",
+          "time": "2024-11-21 13:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0175.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0175.tif",
+          "time": "2024-11-21 14:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0176.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0176.tif",
+          "time": "2024-11-21 15:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0177.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0177.tif",
+          "time": "2024-11-21 16:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0178.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0178.tif",
+          "time": "2024-11-21 17:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0179.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0179.tif",
+          "time": "2024-11-21 18:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0180.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0180.tif",
+          "time": "2024-11-21 19:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0181.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0181.tif",
+          "time": "2024-11-21 20:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0182.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0182.tif",
+          "time": "2024-11-21 21:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0183.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0183.tif",
+          "time": "2024-11-21 22:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0184.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0184.tif",
+          "time": "2024-11-21 23:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0185.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0185.tif",
+          "time": "2024-11-22 00:00:00"
+        },
+        {
+          "png": "frames/NoConTrol_H_Water_Depth/frame_0186.png",
+          "tif": "frames/NoConTrol_H_Water_Depth/frame_0186.tif",
+          "time": "2024-11-22 01:00:00"
+        }
+      ],
+      "extent3857": [
+        12117025.580598885,
+        1450972.5102103876,
+        12183026.905603422,
+        1484850.113394535
+      ],
+      "legendItems": [
+        {
+          "color": "#440154",
+          "label": "0 - 0.1"
+        },
+        {
+          "color": "#481a6c",
+          "label": "0.1 - 0.2"
+        },
+        {
+          "color": "#46317e",
+          "label": "0.2 - 0.5"
+        },
+        {
+          "color": "#3f4788",
+          "label": "0.5 - 1"
+        },
+        {
+          "color": "#365b8c",
+          "label": "1 - 1.5"
+        },
+        {
+          "color": "#2e6d8e",
+          "label": "1.5 - 2"
+        },
+        {
+          "color": "#277e8e",
+          "label": "2 - 3"
+        },
+        {
+          "color": "#20908c",
+          "label": "3 - 4"
+        },
+        {
+          "color": "#1fa187",
+          "label": "4 - 5"
+        },
+        {
+          "color": "#2cb17d",
+          "label": "5 - 6"
+        },
+        {
+          "color": "#49c16d",
+          "label": "6 - 7"
+        },
+        {
+          "color": "#72cf55",
+          "label": "7 - 8"
+        },
+        {
+          "color": "#9fd938",
+          "label": "8 - 9"
+        },
+        {
+          "color": "#cfe11c",
+          "label": "9 - 11"
+        },
+        {
+          "color": "#fde724",
+          "label": "11 - 14"
+        }
+      ]
+    }
+  ],
+  "baseLayers": [],
+  "fullExtent3857": [
+    12117025.580598885,
+    1450972.5102103876,
+    12183026.905603422,
+    1484850.113394535
+  ],
+  "groups": {
+    "flood": "Độ sâu ngập lụt",
+    "base": "Lớp nền"
+  },
+  "sourceCrs": "EPSG:32648",
+  "webCrs": "EPSG:3857",
+  "backgroundDiagnostics": []
+};
